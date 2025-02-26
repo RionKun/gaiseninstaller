@@ -1,2 +1,3 @@
 # gaiseninstaller
 凱旋のinstaller用のリポジトリ
+このインストールランチャーを当して凱旋をインストールする
